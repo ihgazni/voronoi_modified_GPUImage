@@ -7,7 +7,7 @@ i changed the GPUImageJFAVoronoiFilter.h
 and GPUImageJFAVoronoiFilter.m
 and GPUImageVoronoiConsumerFilter.m
 and make Voronoi filter to work with stillImage.(i did not test videoCamera).
-because i am a totally newer of opengl-es, i just compare with the implement
+because i am a totally newer of opengl-es, i just refer to the implement
 of this webgl  exzample which mentioned in  GPUImageJFAVoronoiFilter.h
 http://unitzeroone.com/labs/jfavoronoi/,  so please tell me if  something not correct
 in my modified codes.
