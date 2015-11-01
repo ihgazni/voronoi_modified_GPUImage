@@ -20,6 +20,8 @@ to pass them (in strict order when addTarget ) to GPUImageVoronoiConsumerFilter
 
 1.how to use it
 --------------------
+        //first use the 4 files to replace the corresponding files in GPUImage
+
         GPUImageOutput<GPUImageInput> *filter;
         GPUImagePicture *sourcePicture;
         UIImage * filteredImage;
@@ -55,3 +57,8 @@ to pass them (in strict order when addTarget ) to GPUImageVoronoiConsumerFilter
         [sourcePicture processImage];
         filteredImage = [filter imageFromCurrentFramebuffer];
        [self.selectedImageView setImage:filteredImage];
+
+
+result_effect
+-------------
+![image](https://github.com/ihgazni/voronoi_modified_GPUImage/blob/master/lena_stillImage_result.png)
