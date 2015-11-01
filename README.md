@@ -1,5 +1,7 @@
 # voronoi_modified_GPUImage
 modified GPUImageJFAVoronoiFilter  and GPUImageVoronoiConsumerFilter  for stillImage
+of the https://github.com/BradLarson/GPUImage 
+thanks for GPUImage and BradLarson
 
 0.what is changed from the original GPUImageVoronoi
 ---------------------------------------------------
