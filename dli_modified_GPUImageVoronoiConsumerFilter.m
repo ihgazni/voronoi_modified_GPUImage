@@ -81,10 +81,7 @@ NSString *const kGPUImageVoronoiConsumerFragmentShaderString = SHADER_STRING
 @implementation GPUImageVoronoiConsumerFilter
 
 @synthesize sizeInPixels = _sizeInPixels;
-////当@synthesize被省略的时候@synthesize var=_var是LLVM 4.0自动生成的你可以把它当做Objective-C的默认命名规则
-////通过@property 声明了属性之后 在类的实现文件中 可以不写@synthesize  系统会自动生成
-////@synthesize toDoItems = _toDoItems；
-////你如果想通过getter方法来访问属性 需要写成self.toDoItems ,_toDoItems 是直接访问变量
+
 
 - (id)init;
 {
