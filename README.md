@@ -2,7 +2,7 @@
 modified GPUImageJFAVoronoiFilter  and GPUImageVoronoiConsumerFilter  for stillImage
 
 0.what is changed from the original GPUImageVoronoi
-——————————————————————————————————————————————————-
+---------------------------------------------------
 i changed the GPUImageJFAVoronoiFilter.h
 and GPUImageJFAVoronoiFilter.m
 and GPUImageVoronoiConsumerFilter.m
