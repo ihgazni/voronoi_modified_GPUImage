@@ -23,6 +23,10 @@ to pass them (in strict order when addTarget ) to GPUImageVoronoiConsumerFilter
 1.how to use it
 --------------------
         //first use the 4 files to replace the corresponding files in GPUImage
+        //JFAVoronoi.h
+        //JFAVoronoi.m
+        //Consumer.h
+        //Consumer.m
 
         GPUImageOutput<GPUImageInput> *filter;
         GPUImagePicture *sourcePicture;
